@@ -1,0 +1,14 @@
+.block6 {
+  background-color: #0E0E0E;
+  margin: 0;
+  padding: 0;
+  border: none; }
+
+.our_team {
+  background-color: #fff;
+  padding: 70px 0px; }
+
+.our_team__body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
